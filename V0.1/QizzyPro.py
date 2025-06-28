@@ -1,3 +1,6 @@
+# QizzyPro DDoS Protection System
+# Copyright (c) 2025 IC Devlopment 
+# All rights reserved. Unauthorized use is strictly prohibited.
 import subprocess
 import time
 import re

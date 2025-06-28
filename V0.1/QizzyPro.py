@@ -120,7 +120,7 @@ def migrate_services():
 # === MAIN LOOP ===
 
 def main_loop():
-    log("🧠 QizzyPro V7.5 Advanced Mitigation Started")
+    log(" QizzyPro V0.1 Advanced Mitigation Started")
     if enable_fallback_blocking:
         fallback_blocking()
 

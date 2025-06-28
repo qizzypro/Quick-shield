@@ -41,6 +41,9 @@ Layer 4 (Transport)	TCP SYN flood detection, port connection limits
 Layer 7 (Application)	Flow-based heuristics (basic), pattern matching in progress
 
 
+🚫 QizzyPro is a private, protected system. You are NOT allowed to copy, redistribute, or use it without permission.
+
+© 2025 QizzyPro — All rights reserved.
 
 
 

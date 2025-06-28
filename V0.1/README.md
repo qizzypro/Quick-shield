@@ -2,7 +2,7 @@
 ### 🧾 Config File: 
 paste all files
 `nano /etc/qizzypro.conf`
-nano qizzypro.py
+`nano qizzypro.py`
 
 
 2. **Run it**

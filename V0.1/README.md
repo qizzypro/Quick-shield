@@ -6,9 +6,7 @@ nano qizzypro.py
 
 
 2. **Run it**
-```python3 qizzypro.py
-```
----
+```python3 qizzypro.py```
 
 ### 🛠 Requirements
 
